@@ -49,6 +49,16 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+table, table td, table th{
+  width:"100%";
+  text-align: center;
+  margin: 1px auto;
+  border-collapse: collapse;
+  border: 1px solid white;
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 10px;
+}
 .light {
   font-weight: 400;
 }
