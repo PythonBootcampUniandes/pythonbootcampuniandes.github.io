@@ -1,5 +1,6 @@
 Carrera+Universidad | Contacto | Bootcamper responsable | Status|
 -------------------- | ------- | ---------------------| ----- |
+Astronomía Colombia | Mailing List | Jaime | |
 Observatorio - UNAL | Santiago Vargas | Jaime| |
 Universidad ECCI | German Chaparro | Jaime| |
 Ciencias Uniandes | Yazmín | Jaime | |
