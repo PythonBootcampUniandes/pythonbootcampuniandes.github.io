@@ -4,6 +4,6 @@ Astronomía Colombia | Mailing List | Jaime | Enviado |
 Observatorio - UNAL | Santiago Vargas | Jaime| |
 Universidad ECCI | German Chaparro | Jaime| |
 Ciencias Uniandes | Yazmín | Jaime | |
-Sistemas Uniandes | Juan Pablo | MC | |
+Sistemas Uniandes | Juan Pablo | MC | Enviado |
 Universidad Pedagógica | Nidia Tuay | Edgar | Pending of poster and written information
 Biomédica Uniandes | Pablo Arbélaez | Edgar | Enviado
