@@ -5,5 +5,5 @@ Observatorio - UNAL | Santiago Vargas | Jaime| |
 Universidad ECCI | German Chaparro | Jaime| |
 Ciencias Uniandes | Yazmín | Jaime | |
 Sistemas Uniandes | Juan Pablo | MC | Enviado |
-Universidad Pedagógica | Nidia Tuay | Edgar | Pending of poster and written information
+Física Universidad Pedagógica | Nidia Tuay | Edgar | Enviado
 Biomédica Uniandes | Pablo Arbélaez | Edgar | Enviado
